@@ -1,0 +1,3 @@
+Sitemap: https://rpacheco2.github.io/Sitemap.xml
+User-agent: *
+Allow: /
